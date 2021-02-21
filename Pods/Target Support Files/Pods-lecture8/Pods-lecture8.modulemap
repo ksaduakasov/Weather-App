@@ -1,0 +1,6 @@
+framework module Pods_lecture8 {
+  umbrella header "Pods-lecture8-umbrella.h"
+
+  export *
+  module * { export * }
+}
